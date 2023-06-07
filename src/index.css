@@ -1,0 +1,16 @@
+.{
+  padding: 50;
+  margin: 20px 50px;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+html, body, #root{
+  width: auto;
+  background-color: #efefef;
+  height: 100%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
